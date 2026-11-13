@@ -1,4 +1,4 @@
-# Lab 3: User Authentication API
+# Lab 4: User Authentication API
 
 An Express API for registering users, logging in, and changing passwords. User records are stored in the included SQLite database, and passwords are hashed with bcrypt.
 
